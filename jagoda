@@ -1,0 +1,156 @@
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf8">
+		<style>
+		    body
+			{	
+			    background-color: rgb(255,254,203);
+			}
+		
+			    #main
+			    {
+				    width: 600px;
+				    height: 1000px;
+				    border: 1px solid rgb(128,128,128);
+				    margin-left: auto;
+				    margin-right: auto;
+				    background-color: rgb(50,140,255);
+                }
+		
+			        #logo
+			        {
+				        border: 5px solid red;
+				        height: 120px;
+				        width: 590px;
+				        margin: 0px;
+				        background-color: rgb(159,251,136);
+				        text-align: center;
+				        padding-top: 0%;
+				        padding-bottom: 10%;
+			        }
+
+			            .k
+			            {
+				            margin: 20px;
+				            border-top: 5px solid rgb(51,0,204);
+				            border-bottom: 5px solid rgb(51,0,235);
+				            height: 40px;
+				            width: 100px;
+				            background-color: rgb(159,251,136);
+				            text-align: center;
+				            display: inline-block;
+			            }
+			
+			                .z
+			                {
+				                border: 5px solid yellow;
+				                height: 150px;
+				                width: 590px;
+				                margin: 0px;
+				                background-color: rgb(220,180,180);
+				                padding-top: 0%;
+				                padding-bottom: 0%; 
+								font-family: arial;
+								font-size: 20;
+				            }
+			
+			    .c 
+				{
+				border: none;
+				height: 150px;
+				width:270px;
+				margin: 1px;
+				text-align: center;
+				font-family: arial;
+				display: inline-block;
+				}
+				    
+					.d
+					{
+					border;none;
+					height: 50px;
+					width: 600px;
+					text-align: center;
+					font-family: Verdana;
+					font-size:15px;
+					background-color: rgb(129,128,126);
+					
+					
+					}
+		</style>
+	</head>
+
+
+	<body>
+	
+		        <div id="main">
+			         
+					<div id="logo">
+			        <img src="images.jpg" width=590px height=140px >
+			        <font size="6" face="time new roman" color="red"><b><i>ŻYCIE JEST PIĘKNE</font></b></i>
+		            </div>
+
+			            <div class="k">
+	                    <a href="http://wformie24.poradnikzdrowie.pl/rekreacja/sport-wydluza-zycie-zobacz-co-jeszcze-zyskujesz-cwiczac_38288.html">Sport to zdrowie</a>
+			            </div>
+			
+			            <div class="k">
+				        <a href="http://dieta.mp.pl/zasady">    Zdrowa     dieta.....</a>
+			            </div>
+			
+
+			            <div class="k">
+				        <a href="http://www.poradnikzdrowie.pl/zywienie/zasady-zywienia/Zdrowa-dieta-szkodliwe-polaczenia-potraw-i-skladnikow_35786.html">Łączenie potraw</a>
+			            </div>
+
+			            <div class="k">
+				        <a href="http://jejswiat.pl/2626,co-sie-dzieje-z-twoim-cialem-gdy-za-duzo-cwiczysz">Co za dużo to....</a>
+			            </div>
+			
+			
+			                <div class="z">
+			                <font color="blue">
+			                <img src="karola.jpg" width="50%" height="100%"  align="right" >Jesteśmy zdrowi, piękni i młodzi, <big><b>a może to tylko nasze złudzenie,</b></big> które jest nam wmawiane od urodzenia. </img>
+							</font>
+                            </div>
+							    
+								<div>
+								<font size="8" color="white">
+								<p>
+								<center>A co jeśli?????</center>
+								</p>
+								</font>
+								<font size="4" color="white" face="courier new"><i>
+								<p style="text-indent: 10%; ">
+								<align="justify">Co jeśli dopadnie nas choroba, albo co gorsze, <u>nasze dziecko,</u> czy jesteśmy sobie w stanie wyobrazić ból, żal i rozpacz jaki czują jego rodzice???</p>
+								</font></i></p>
+								</div>
+				    
+					
+				<div class="c">
+                <img src="przed usunięciem.jpg" width="50%" height="100%" align="right"> Nowotwór kości <a href="http://www.bonetumor.org/tumors-fibrous-tissue/desmoplastic-fibroma">DESMOPLASTIC FIBROMA</a> w chwili wykrycia. Zaatakowana kość wraz ze szpikiem.</img>					
+				</div>
+					
+		        <div class="c">
+                <img src="po operacji.jpg" width="50%" height="100%" align="right">  Rendgen wykonany tuż po operacji. Usunięcie kości i wstawienie implantu i blachy mocującej.</a>					
+				</div>
+				    
+					<div>
+					<font size="5" color="red">
+					<p>
+					<center> Każdy myśli, że go to nie spotka, ale nic bardziej mylnego...</center><br>
+					</p>
+					</div>
+				    
+					
+					<div class="d">
+					<font color="white">
+                    Pierwsza strona Jadwigi Wodyńskiej<br> ZEVI 2014/2015 Warszawa 
+					</font>
+					</div>					
+					    
+		        </div>
+	
+	</body>
+
+</html>
